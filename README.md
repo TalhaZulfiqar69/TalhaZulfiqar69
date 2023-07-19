@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TalhaZulfiqar69
+- 👋 Hi, I’m @TalhaZulfiqar
 - 👀 I’m interested in Mern, Mean Stacks, Blockchain, web3, Laravel, Codeigniter 
 - 🌱 I’m currently learning ReactJs and typescript
 - 💞️ I’m looking to collaborate on Mern stack and blockchain projects
